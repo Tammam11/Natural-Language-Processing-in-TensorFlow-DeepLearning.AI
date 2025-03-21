@@ -38,11 +38,4 @@ You can install the necessary dependencies using:
 pip install -r requirements.txt
 
 
-git clone https://github.com/Tammam11/Natural-Language-Processing-in-TensorFlow.git
-
-cd Natural-Language-Processing-in-TensorFlow
-
-pip install -r requirements.txt
-
-
 
